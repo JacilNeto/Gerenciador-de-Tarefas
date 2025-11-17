@@ -2,10 +2,6 @@
 
 <p align="center">
 Programa exclusivo e gratuito</p>
-<p align="center">
-<img alt="Projeto DevLinks" src="./imagem/Cover.jpg" 
-width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
